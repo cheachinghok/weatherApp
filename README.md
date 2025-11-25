@@ -1,23 +1,40 @@
-# weather
+# Weather App
 
-A new Flutter project.
+A modern Flutter checklist application with task management, prioritization, and analytics dashboard.
+
+## Features
+
+    🌤️ Current weather conditions with detailed metrics
+
+    📅 Hourly and 14-day weather forecasts
+
+    📍 Automatic location detection and manual city search
+
+    🔔 Customizable weather alerts for temperature, rain, snow, and wind
+
+    🎨 Dark/Light theme support with Material Design 3
+
+    💾 Local storage for weather alerts
+
+    📱 Responsive design for all screen sizes
+
+## Tech Stack
+
+- **Flutter** 3.16.0+
+- **Provider** for state management
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK 3.16.0 or later
+- Dart 3.0.0 or later
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/checklist_app.git
+git clone https://github.com/cheachinghok/weatherApp
 cd checklist_app
 
 # Run all test in a directory
