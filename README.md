@@ -35,10 +35,13 @@ A modern Flutter checklist application with task management, prioritization, and
 1. Clone the repository
 ```bash
 git clone https://github.com/cheachinghok/weatherApp
-cd checklist_app
+cd weatherApp
 
 # Run all test in a directory
 flutter test
+
+# Run unit tests in a directory
+flutter test integrateion_test/
 
 # Run unit tests in a directory
 flutter test test/weather_entity_test.dart
